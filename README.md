@@ -17,7 +17,7 @@ Key concepts:
 - Numpy array slicing, broadcasting 
 - Visualization of a matrix
 
-# Books-3 
+# Book-3 
 - Line plot, Bar plot, Scatter plot, Image plot
 - Subplots
 
