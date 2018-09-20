@@ -1,2 +1,2 @@
 # Python course
-Python course at Rub- Neuroinformatik
+These are the notes from the Python course which i took at my university Ruhr Universität Bochum- Germany. 
