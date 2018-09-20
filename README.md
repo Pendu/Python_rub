@@ -1,2 +1,2 @@
-# Python_rub
+# Python course
 Python course at Rub- Neuroinformatik
