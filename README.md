@@ -14,7 +14,12 @@ Key concepts:
 - Imports and simple timing
 
 # Book-2 
+- Numpy array slicing, broadcasting 
+- Visualization of a matrix
 
+# Books-3 
+- Line plot, Bar plot, Scatter plot, Image plot
+- Subplots
 
 
 ![rub campus](https://user-images.githubusercontent.com/36667934/45818205-57b5dd00-bce1-11e8-82d3-25f71d4993a1.jpg)
